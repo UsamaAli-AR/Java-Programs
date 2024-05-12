@@ -19,6 +19,5 @@ public class PrimeNumberChecker {
         } else {
             System.out.println("Non-Prime");
         }
-
     }
 }
