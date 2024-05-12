@@ -1,4 +1,4 @@
-public class Example2 {
+public class VariableManipulation {
     public static void main(String args[]) {
         int num;
         num = 100;
