@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Guessnum {
+public class GuessNumber {
     public static void main(String[] args) {
 
         int Mynum = (int) (Math.random() * 100);
